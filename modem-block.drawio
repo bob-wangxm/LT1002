@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T03:10:43.556Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="rCGo4tuUnnsX7_zCJv19" version="13.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-12T03:11:18.985Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="SxL6yChGcQZ_-lFUaF5m" version="13.9.6" type="github" pages="2">
   <diagram id="tjsZ40Q8FvJpc4kfpCKZ" name="struct">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         </mxCell>
         <mxCell id="kuo7yyHPrmV2QInHSain-11" value="get uci value&lt;br&gt;set uci value" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kuo7yyHPrmV2QInHSain-10">
           <mxGeometry x="-0.1444" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuo7yyHPrmV2QInHSain-14" value="modem chip" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ah541Y_RjbxgkqsnwScS-1">
@@ -143,7 +143,7 @@
         </mxCell>
         <mxCell id="kuo7yyHPrmV2QInHSain-16" value="AT command&lt;br&gt;by USB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kuo7yyHPrmV2QInHSain-15">
           <mxGeometry x="0.6122" y="-4" relative="1" as="geometry">
-            <mxPoint x="-4" y="17" as="offset" />
+            <mxPoint x="-4" y="31" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
